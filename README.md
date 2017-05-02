@@ -1,5 +1,5 @@
 # Introduction
-
+jj
 This project exposes a simple HTTP endpoint exposing a _greeting_ service. The service is available at this address: 
 _http://hostname:port/api/greeting_ and returns a JSON response containing the _greeting_ message.
 
